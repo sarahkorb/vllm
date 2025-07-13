@@ -1,0 +1,3 @@
+vllm[torch]
+deepeval
+datasets==2.16.1
